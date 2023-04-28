@@ -28,10 +28,8 @@ It contains 4 different tab which works together to create a better user experie
 3 - Window <br><br>
 4 - Help <br><br>
 
-##Connection Setup class(JDBC - MySQL)<br>
-
 <h2 align="center">Database (MySQL)</h2><br>
-
+->> Connection Setup class(JDBC - MySQL)<br>
 ->> Login page (UserName,Password)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
