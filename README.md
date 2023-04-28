@@ -16,19 +16,15 @@ This Java application was created using Netbeans IDE .<br>
 This is a GUI made using Java Swing.</br>
 
 It lets User perform multiple operations like:-<br><br>
-1- User can Create his Personal login for security purposes.<br>
-2- User can Reserve a seat , Cancel Reservation , Flight passanger List , Passenger Reservations.<br><br>
-
+                  1- User can Create his Personal login for security purposes.<br>
+                  2- User can Reserve a seat , Cancel Reservation , Flight passanger List , Passenger Reservations.<br><br>
 An airline reservation system is a software application that enables travelers to book flights, make reservations, and manage their travel arrangements with an airline. It is a crucial component of the airline industry's operations and customer service.
 Additional library was added for the support of JDBC (Required to setup the connection between the Database and Java Application).<br><br>
-
-It contains 4 different tab which works together to create a better user experience .<br>
-
-1 - File <br><br>
-2 - Tools <br><br>
-3 - Window <br><br>
-4 - Help <br><br>
-
+It contains 4 different tab which works together to create a better user experience .<br><br>
+                  1 - File <br><br>
+                  2 - Tools <br><br>
+                  3 - Window <br><br>
+                  4 - Help <br><br>
 <h2 align="center">Database (MySQL)</h2><br>
 ->> Connection Setup class(JDBC - MySQL)<br>
 ->> Login page (UserName,Password)
