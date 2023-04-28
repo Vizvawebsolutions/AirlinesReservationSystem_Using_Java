@@ -17,46 +17,24 @@ It lets User perform multiple operations like:-
 
 1- User can Create his Personal login for security purposes.
 
-2- User can Add customers and Calculate their Electricity Bill.
+2- User can Reserve a seat , Cancel Reservation , Flight passanger List , Passenger Reservations
 
-3- User can Pay Electricity Bills.
-
-4- User can Generate Bill.
 
 ## About Project:
-This Java application was created using Intelli J .
+This Java application was created using Netbeans .
+An airline reservation system is a software application that enables travelers to book flights, make reservations, and manage their travel arrangements with an airline. It is a crucial component of the airline industry's operations and customer service.
 Additional library was added for the support of JDBC (Required to setup the connection between the Database and Java Application).
-It contains 9 different classes which works together to create a better user experience .
+It contains 4 different tab which works together to create a better user experience .
 
-->Splash Screen class
-
-->Login Screen class
-
-->Main System class
-
-->Add Customer class
-
-->Pay Bill class
-
-->Generate Bill class
-
-->Show Details class
-
-->Last Bill class
+->File
+->Tools
+->Window
+->Help 
 
 ->Connection Setup class(JDBC - MySQL)
 
 ## Database (MySQL)
-Database for this Electricity Billing System contains 4 Tables
 
-
-->Login Table (UserName,Password)
-
-->Bill Table(MeterNumber,Units,Month,Amount)
-
-->Emp Table(Name, MeterNumber, Address, State, City, Email, Phone)
-
-->Tax Table(MeterLocation,MeterType,PhaseCode,BillType,Days,MeterRent,MCB_Rent,ServiceRent,GST)
-
+->Login page (UserName,Password)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
