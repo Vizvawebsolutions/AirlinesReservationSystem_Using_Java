@@ -14,7 +14,6 @@
 This is a GUI made using Java Swing.
 It lets User perform multiple operations like:-
 
-
 1- User can Create his Personal login for security purposes.
 
 2- User can Reserve a seat , Cancel Reservation , Flight passanger List , Passenger Reservations
@@ -26,15 +25,15 @@ An airline reservation system is a software application that enables travelers t
 Additional library was added for the support of JDBC (Required to setup the connection between the Database and Java Application).
 It contains 4 different tab which works together to create a better user experience .
 
-->File
-->Tools
-->Window
-->Help 
+1 File <br><br>
+2 Tools <br><br>
+3 Window <br><br>
+4 Help <br><br>
 
-->Connection Setup class(JDBC - MySQL)
+##Connection Setup class(JDBC - MySQL)
 
-## Database (MySQL)
+# Database (MySQL)
 
-->Login page (UserName,Password)
+##Login page (UserName,Password)
 
 Java communicates with MySQL tables using JDBC which stands for Java Database Connectivity.
